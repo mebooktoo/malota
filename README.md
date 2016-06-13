@@ -1,7 +1,7 @@
 # Malota
 
-# Usage
+## Usage
 
-# TODO
+## TODO
 * write javadocs
 * write example
