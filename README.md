@@ -3,5 +3,5 @@
 ## Usage
 
 ## TODO
-* write javadocs
-* write example
+- [ ] write javadocs
+- [ ] write example
